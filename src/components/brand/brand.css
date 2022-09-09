@@ -1,0 +1,24 @@
+.encrypzion__brand {
+
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.encrypzion__brand div {
+
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-width: 150px;
+    min-width: 120px;
+    margin: .5rem 1rem;
+}
+
+.encrypzion__brand img {
+
+    height: 25px;
+
+}
